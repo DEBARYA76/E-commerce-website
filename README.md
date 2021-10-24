@@ -3,35 +3,35 @@
 
 ## This is a full-stack eCommerce website built using MERN + Material Tailwind
 ### 1. Log in Page : User Login using MERN or user can login with Google
-<img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/img/login.png" alt="preview" /> <br />
+<img src="https://github.com/DEBARYA76/E-commerce-website/main/img/login.png" alt="preview" /> <br />
 
 ### 2. Sign Up Page : User SignUp using MERN
-<img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/img/signup.png" alt="preview" /> <br />
+<img src="https://github.com/DEBARYA76/E-commerce-website/main/img/signup.png" alt="preview" /> <br />
 
 ### 3. Home Page
-<img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/img/home.png" alt="preview" />
+<img src="https://github.com/DEBARYA76/E-commerce-website/main/img/home.png" alt="preview" />
 
 ### 4. Cart Page
-<img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/img/cart.png" alt="preview" /> <br />
+<img src="https://github.com/DEBARYA76/E-commerce-website/main/img/cart.png" alt="preview" /> <br />
 
 ### 5. Admin Login Page
-<img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/img/admin.png" alt="preview" />
+<img src="https://github.com/DEBARYA76/E-commerce-website/main/img/admin.png" alt="preview" />
 
 ### 6. Admin Panel Page : List of users registered
-<img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/img/AdminPanel.png" alt="preview" />
+<img src="https://github.com/DEBARYA76/E-commerce-website/main/img/AdminPanel.png" alt="preview" />
 
 ### 7. Payemt Page : It will only show payPal button only if the card number is valid 
-<img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/img/Payment.png" alt="preview" /> <br />
+<img src="https://github.com/DEBARYA76/E-commerce-website/main/img/Payment.png" alt="preview" /> <br />
 
 ### 8. Paypal payment Page
-<img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/img/Paypal.png" alt="preview" />
+<img src="https://github.com/DEBARYA76/E-commerce-website/main/img/Paypal.png" alt="preview" />
 ## Tecnologies:
 
 ### 9. Products Page
-<img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/img/ProductFooter.png" alt="preview" />
+<img src="https://github.com/DEBARYA76/E-commerce-website/main/img/ProductFooter.png" alt="preview" />
 
 ### 10. Contact Page
-<img src="https://github.com/ADEBARYA76/E-commerce-website/blob/main/img/Contact.png" alt="preview" />
+<img src="https://github.com/ADEBARYA76/E-commerce-website/main/img/Contact.png" alt="preview" />
 
 ## Tecnologies:
 - **ReactJS** - JavaScript library that is used for building user interfaces specifically for single-page applications.
