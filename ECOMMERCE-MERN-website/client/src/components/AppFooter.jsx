@@ -14,11 +14,11 @@ const AppFooter = () => {
                 <h5 className="white-text">Connect</h5>
                 <ul>
                   <div className="social-links">
-                    <a href="https://github.com/Aman2221"><i className="fab fa-github"></i></a>
-                    <a href="https://twitter.com/Aman23398618"><i className="fab fa-twitter"></i></a>
-                    <a href="https://www.facebook.com/profile.php?id=100012875318770"><i className="fab fa-facebook-square"></i></a>
-                    <a href="https://www.instagram.com/aman_singhhhhhh/"><i className="fab fa-instagram"></i></a>
-                    <a href="https://www.linkedin.com/in/aman-singh-6a81281b3/"><i className="fab fa-linkedin-in"></i></a>
+                    <a href="https://github.com/DEBARYA76"><i className="fab fa-github"></i></a>
+                    <a href="https://twitter.com/DEBARYA"><i className="fab fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/profile.php?id=10001285958770"><i className="fab fa-facebook-square"></i></a>
+                    <a href="https://www.instagram.com/arya_monochrome/"><i className="fab fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/Debarya Pal/"><i className="fab fa-linkedin-in"></i></a>
                 </div>
                 </ul>
               </div>
