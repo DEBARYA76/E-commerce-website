@@ -21,7 +21,7 @@
 <img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/ECOMMERCE-MERN-website/img/AdminPanel.png" alt="preview" />
 
 ### 7. Payemt Page : It will only show payPal button only if the card number is valid 
-<img src="https://github.com/DEBARYA76/E-commerce-website/mainblob/main/ECOMMERCE-MERN-website/img/Payment.png" alt="preview" /> <br />
+<img src="https://github.com/DEBARYA76/E-commerce-website/main/blob/main/ECOMMERCE-MERN-website/img/Payment.png" alt="preview" /> <br />
 
 ### 8. Paypal payment Page
 <img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/ECOMMERCE-MERN-website/img/Paypal.png" alt="preview" />
@@ -30,8 +30,6 @@
 ### 9. Products Page
 <img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/ECOMMERCE-MERN-website/img/ProductFooter.png" alt="preview" />
 
-### 10. Contact Page
-<img src="https://github.com/ADEBARYA76/E-commerce-website/blob/main/ECOMMERCE-MERN-website/img/Contact.png" alt="preview" />
 
 ## Tecnologies:
 - **ReactJS** - JavaScript library that is used for building user interfaces specifically for single-page applications.
