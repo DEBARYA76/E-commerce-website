@@ -17,17 +17,16 @@
 ### 5. Admin Login Page
 <img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/ECOMMERCE-MERN-website/img/admin.png" alt="preview" />
 
-### 6. Admin Panel Page : List of users registered
-<img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/ECOMMERCE-MERN-website/img/AdminPanel.png" alt="preview" />
 
-### 7. Payemt Page : It will only show payPal button only if the card number is valid 
+
+### 6. Payemt Page : It will only show payPal button only if the card number is valid 
 <img src="https://github.com/DEBARYA76/E-commerce-website/main/blob/main/ECOMMERCE-MERN-website/img/Payment.png" alt="preview" /> <br />
 
-### 8. Paypal payment Page
+### 7. Paypal payment Page
 <img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/ECOMMERCE-MERN-website/img/Paypal.png" alt="preview" />
 ## Tecnologies:
 
-### 9. Products Page
+### 8. Products Page
 <img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/ECOMMERCE-MERN-website/img/ProductFooter.png" alt="preview" />
 
 
