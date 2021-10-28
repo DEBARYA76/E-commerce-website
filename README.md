@@ -20,7 +20,7 @@
 
 
 ### 6. Payemt Page : It will only show payPal button only if the card number is valid 
-<img src="https://github.com/DEBARYA76/E-commerce-website/main/blob/main/ECOMMERCE-MERN-website/img/Payment.png" alt="preview" /> <br />
+<img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/ECOMMERCE-MERN-website/img/Payment.png" alt="preview" /> <br />
 
 ### 7. Paypal payment Page
 <img src="https://github.com/DEBARYA76/E-commerce-website/blob/main/ECOMMERCE-MERN-website/img/Paypal.png" alt="preview" />
